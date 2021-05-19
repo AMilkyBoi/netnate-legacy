@@ -1,2 +1,2 @@
-# netnate-legacy
-legacy version of netnate so i don't lose stuff on accident
+# NetNate
+This is a repository for my website, https://www.netnate.com.
